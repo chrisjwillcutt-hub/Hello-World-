@@ -19,6 +19,11 @@ Which Statistics Best Predict MLB Team Winning Percentage
 
 ## Files used 
 
+## how to run program
+
+## Additional information 
+
+
 
 
 
